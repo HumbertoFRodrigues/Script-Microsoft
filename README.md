@@ -15,28 +15,29 @@
 - Você verá as opções de ativação e seguirá as instruções na tela.
 -   Isso é tudo.
 
-### Method 2 - Traditional
+### Método 2 – Tradicional
 
--   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+-   Baixe o arquivo [aqui](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+-   Clique com o botão direito no arquivo zip baixado e extraia
+-   Na pasta extraída, encontre a pasta chamada `All-In-One-Version`
+-   Execute o arquivo chamado`MAS_AIO.cmd`
+-   Você verá as opções de ativação e seguirá as instruções na tela.
+-   Isso é tudo.
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+Para executar os scripts no modo autônomo, verifique [aqui](https://massgrave.dev/command_line_switches.html)
 
 ```
-Latest Version: 1.8
-Release date: 16-Mar-2023
+Versão mais recente: 1.8
+Data de lançamento: 16 de março de 2023
 ```
 
+# Creditos
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
 ### Homepage - https://massgrave.dev
 </br>
 
 
-Made with Love ❤️
+Feito com Amor ❤️ Equipe Massgrave e destribuido por: Humberto Rodrigues
 
 
