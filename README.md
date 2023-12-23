@@ -2,18 +2,18 @@
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
-<p align="center">A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
+<p align="center">Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS on-line, com foco em código-fonte aberto e menos detecções de antivírus.</p>
 <hr>
 
-## Download / How to use it?
+## Baixar / Como usar?
 
-### Method 1 - PowerShell (Recommended)
+### Método 1 – PowerShell (recomendado)
 
--   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
+- No Windows 8.1/10/11, clique com o botão direito no menu Iniciar do Windows e selecione PowerShell ou Terminal (não CMD).
+- Copie e cole o código abaixo e pressione enter\
     `irm https://hub.mundotutors.com/get.ps1 | iex`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+- Você verá as opções de ativação e seguirá as instruções na tela.
+-   Isso é tudo.
 
 ### Method 2 - Traditional
 
